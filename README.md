@@ -18,6 +18,8 @@ This is a Google Drive Private PDF Downloader Tool by InferiorAK
 - Also supported in Termux
 
 ## Commands
+- ` git clone https://github.com/InferiorAK/PDFGuti `
+- ` cd PDFGuti `
 - ` pip3 install -r requirements.txt `
 - ` python3 ppd.py `
 
