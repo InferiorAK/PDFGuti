@@ -12,6 +12,14 @@ This is a Google Drive Private PDF Downloader Tool by InferiorAK
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2FPDFGuti&title=Visitors&edge_flat=false"/>
 </p>
 
+## Supports
+- Specillay Optimized for Desktop
+- Also supported in Termux
+
+## Commands
+- ` pip3 install -r requirements.txt `
+- ` python3 ppd.py `
+
 ## ScreenShots
 <p align="center">
   <img src="/assets/1.png">
