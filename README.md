@@ -4,7 +4,7 @@ This is a Google Drive Private PDF Downloader Tool by InferiorAK. I can download
 <img src="banner.jpg" width=1080px>
 
 # Tutorial
-<a href="https://youtu.be/UROtFRGh2LA?si=Lj1N3aurjFvcNcMY">** Click Here **</a>
+<a href="https://www.youtube.com/watch?v=EJ7NnED9HXg">** Click Here **</a>
 <p align="center">
   <img src="https://img.shields.io/github/license/inferiorAK/PDFGuti?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/inferiorAK/PDFGuti?style=for-the-badge">
