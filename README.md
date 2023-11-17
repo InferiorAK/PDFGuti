@@ -1,5 +1,7 @@
 # PDFGuti
-This is a Google Drive Private PDF Downloader Tool by InferiorAK
+This is a Google Drive Private PDF Downloader Tool by InferiorAK. I can download the Restricted PDFs from Google Drive
+<br>
+<img src="banner.jpg" width=1080px>
 
 # Tutorial
 <a href="https://youtu.be/UROtFRGh2LA?si=Lj1N3aurjFvcNcMY">** Click Here **</a>
@@ -16,21 +18,10 @@ This is a Google Drive Private PDF Downloader Tool by InferiorAK
 </p>
 
 ## Supports
-- Specillay Optimized for Desktop
-- Also supported in Termux
-
-## Commands
-- ` git clone https://github.com/InferiorAK/PDFGuti `
-- ` cd PDFGuti `
-- ` pip3 install -r requirements.txt `
-- ` python3 ppd.py `
+- Windows (For now)
 
 ## ScreenShots
-<p align="center">
-  <img src="/assets/1.png">
-  <img src="/assets/2.png">
-  <img src="/assets/3.png">
-</p>
+
 
 ## [+] My Links
 
