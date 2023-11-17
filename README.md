@@ -20,9 +20,6 @@ This is a Google Drive Private PDF Downloader Tool by InferiorAK. I can download
 ## Supports
 - Windows (For now)
 
-## ScreenShots
-
-
 ## [+] My Links
 
 <div align=center>
