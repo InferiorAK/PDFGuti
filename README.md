@@ -1,7 +1,11 @@
-# PDFGuti
+# PDFGuti V.1.1
 This is a Google Drive Private PDF Downloader Tool by InferiorAK. I can download the Restricted PDFs from Google Drive
 <br><br>
 <img src="banner.jpg" width=1080px>
+
+# New Feature
+- Direct Link Paste Download
+- Frame Drop Issue Fixed
 
 # Tutorial
 <a href="https://www.youtube.com/watch?v=EJ7NnED9HXg">** Click Here **</a>
