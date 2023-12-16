@@ -2,7 +2,9 @@
 This is a Google Drive Private PDF Downloader Tool by InferiorAK
 
 # Tutorial
-<a href="https://youtu.be/UROtFRGh2LA?si=Lj1N3aurjFvcNcMY">** Click Here **</a>
+<a href="https://youtu.be/UROtFRGh2LA?si=Lj1N3aurjFvcNcMY">For PC</a>
+<br>
+<a href="https://youtu.be/vz-49IvSPb4">For Mobile</a>
 <p align="center">
   <img src="https://img.shields.io/github/license/inferiorAK/PDFGuti?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/inferiorAK/PDFGuti?style=for-the-badge">
