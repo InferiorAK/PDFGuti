@@ -1,4 +1,4 @@
-# PDFGuti V.1.1.1 (Bug Fixed!)
+# PDFGuti V.1.1.2
 This is a Google Drive Private PDF Downloader Tool by InferiorAK. I can download the Restricted PDFs from Google Drive
 <br><br>
 <img src="banner.jpg" width=1080px>
@@ -16,7 +16,7 @@ This is a Google Drive Private PDF Downloader Tool by InferiorAK. I can download
 </p>
 
 # What's New?
-- Bug Fixed from version 1.1! Let's roll!
+- Page Drop Issue solved Fully. Let's roll!
 - Bit Changed
 - More Better Performance
 
@@ -28,7 +28,7 @@ This is a Google Drive Private PDF Downloader Tool by InferiorAK. I can download
 - Windows (For now)
 
 # Download
-- <a href="https://github.com/InferiorAK/PDFGuti/releases/download/PDFGuti_v1.1.1/pdf_guti.v1.1.1.exe">pdf_guti.v.1.1.1.exe</a>
+- <a href="https://github.com/InferiorAK/PDFGuti/releases/download/PDFGuti_v1.1.2/pdf_guti.v1.1.2.exe">pdf_guti.v.1.1.2.exe</a>
 - Download your desired chromedriver version from here <a href="https://googlechromelabs.github.io/chrome-for-testing/#stable">ChromeDriver</a>
   
 # Tutorial
