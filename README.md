@@ -37,7 +37,7 @@ This is a Google Drive Private PDF Downloader Tool by InferiorAK. I can download
 <br>
 
 ## Download
-- <a href="https://github.com/InferiorAK/PDFGuti/releases/download/PDFGuti_v1.1.2/pdf_guti.v1.1.2.exe">pdf_guti.v.1.1.2.exe</a>
+- [PDFGuti v1.1.3](https://github.com/InferiorAK/PDFGuti/releases/download/PDFGuti_v1.1.3/pdf_guti.v1.1.3.exe)
 - Download your desired chromedriver version from here <a href="https://googlechromelabs.github.io/chrome-for-testing/#stable">ChromeDriver</a>
   
 ## Tutorial
