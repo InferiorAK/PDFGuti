@@ -15,23 +15,32 @@ This is a Google Drive Private PDF Downloader Tool by InferiorAK. I can download
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2FPDFGuti&title=Visitors&edge_flat=false"/>
 </p>
 
-# What's New?
+## From v1.1.3
+### New Fixes 2025
+- Timeout Issue Patched
+
+<br>
+
+## From v1.1.2
+### What's New?
 - Page Drop Issue solved Fully. Let's roll!
 - Bit Changed
 - More Better Performance
 
-## New Feature
+### New Feature
 - Direct Link Paste Download
 - Frame Drop Issue Fixed
 
-## Supports
+### Supports
 - Windows (For now)
 
-# Download
+<br>
+
+## Download
 - <a href="https://github.com/InferiorAK/PDFGuti/releases/download/PDFGuti_v1.1.2/pdf_guti.v1.1.2.exe">pdf_guti.v.1.1.2.exe</a>
 - Download your desired chromedriver version from here <a href="https://googlechromelabs.github.io/chrome-for-testing/#stable">ChromeDriver</a>
   
-# Tutorial
+## Tutorial
 <a href="https://www.youtube.com/watch?v=EJ7NnED9HXg">** Click Here **</a>
 
 ## [+] My Links
